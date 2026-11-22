@@ -1,0 +1,1 @@
+print("Discount is good for customers!")
