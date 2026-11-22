@@ -1,1 +1,1 @@
-print("Discount is good for customers!")
+print("Discount is good for customers which helps them save money!")
